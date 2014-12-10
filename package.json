@@ -1,0 +1,24 @@
+{
+  "name": "isRetina",
+  "version": "1.0.0",
+  "description": "Simple function which tells if your code is running on a high DPR device or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KyleAMathews/isRetina.git"
+  },
+  "keywords": [
+    "retina",
+    "dpr",
+    "device-pixel-ratio"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KyleAMathews/isRetina/issues"
+  },
+  "homepage": "https://github.com/KyleAMathews/isRetina"
+}
