@@ -1,7 +1,7 @@
 {
   "name": "is-retina",
   "version": "1.0.1",
-  "description": "Simple function which tells if your code is running on a high DPR device or not",
+  "description": "Simple function which determines if your code is running on a high DPR device or not",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
