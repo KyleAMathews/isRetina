@@ -1,6 +1,6 @@
 {
   "name": "is-retina",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple function which tells if your code is running on a high DPR device or not",
   "main": "index.js",
   "scripts": {
