@@ -1,7 +1,7 @@
 isRetina
 ========
 
-Simple function which tells if you're code is running on a high DPR device or not
+Simple function which tells if your code is running on a high DPR device or not
 
 ## Install
 `npm install is-retina`
